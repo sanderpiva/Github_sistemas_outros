@@ -1,0 +1,46 @@
+
+Inserindo projetos para o github
+
+1- No cmd
+2- cd [ nome pasta que tem o projeto ]
+3- git init
+4- git status
+5- git add .
+6- git status
+7- git commit -m 'projeto'
+8- git remote add origin [ caminho do respositorio do githun com '.git' no final ]
+9- git push origin master
+
+Para atualizar um projeto ja no repositorio github
+
+1- No cmd
+2- cd [ nome pasta que tem o projeto ]
+3- git init
+4- git status
+5- git add .
+6- git status
+7- git commit -m 'projeto'
+8- git pull origin master
+9- git push origin master
+
+<<<<<<< HEAD:github_e_sistemas.txt
+--
+
+IP: cmd: ipconfig
+Informações do sistema: cmd: systeminfo
+
+
+
+=======
+Importante!
+
+Se vc criou uma pasta e colocou 
+seus arquivos nela para enviar para o Github saiba
+que vc terá de manter essa pasta com os mesmos arquivos no pc
+caso queira adicionar outro arquivo ou projeto no
+futuro sem perder o que vc já tinha no Github.
+Se vc apagou os arquivos da pasta por causa de pouca memória no pc,
+recomendo criar uma nova pasta para não perder seus
+projetos.
+>>>>>>> c46f898b0ee24aed89ef655a465bdaaf77cd34f9:github.txt
+
